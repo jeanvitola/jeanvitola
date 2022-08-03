@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jean Vitola</h1>
+<h1 align="center"> 👋 Jean Carlos Vitola Cabarcas</h1>
 <h3 align="center">Industrial Engineer | Data science student Correlation One I Occupational Safety and Hygiene Analyst | Tec. In plant operation | Big Data Business |</h3>
 
 - 🔭 I’m currently working on **Web scraping, Data science, development**
